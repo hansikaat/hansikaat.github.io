@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Hansika Attanayake
 
-You can use the [editor on GitHub](https://github.com/hansikaat/hansikaat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hey there, I’m Hansika. I’m a student of KTH Royal Institute of Technology in Stockholm, Sweden. At present, I work as an Intern for Ericsson. I have around nine years of experience in the Information Technology industry. I am a professional Engineer graduated from the Institute of Engineers in Sri Lanka. My key interests are data science, programming and web development. I am a fan of music, innovation, and entrepreneurship. I believe myself as a person who constantly engages in learning new technologies and who prefers contributing to the society using my skills and competencies
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[repository settings](https://github.com/hansikaat/hansikaat.github.io/settings)
 
 ```markdown
 Syntax highlighted code block
